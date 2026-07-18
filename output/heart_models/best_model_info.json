@@ -1,0 +1,39 @@
+{
+  "best_model": "Logistic Regression",
+  "test_accuracy": 0.8524590163934426,
+  "test_roc_auc": 0.8939393939393939,
+  "feature_columns": [
+    "age",
+    "sex",
+    "cp",
+    "trestbps",
+    "chol",
+    "fbs",
+    "restecg",
+    "thalach",
+    "exang",
+    "oldpeak",
+    "slope",
+    "ca",
+    "thal"
+  ],
+  "continuous_cols": [
+    "age",
+    "trestbps",
+    "chol",
+    "thalach",
+    "oldpeak"
+  ],
+  "nominal_cols": [
+    "cp",
+    "restecg",
+    "slope",
+    "thal"
+  ],
+  "passthrough_cols": [
+    "sex",
+    "fbs",
+    "exang",
+    "ca"
+  ]
+}
