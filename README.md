@@ -124,5 +124,8 @@ Based on the Logistic Regression coefficients, the strongest predictors of heart
 This project is for educational purposes. Predictions are statistical associations learned from a small (302-record) public dataset and must not be used as an actual medical diagnosis.
 
 ## 👤 Author
-ManojGowda B Y 🎓B.E. Computer Science Engineering (AI/ML) — DBIT Bengaluru 🔗 GitHub: @ManojgowdaBY
+ManojGowda B Y 
+🎓B.E. Computer Science Engineering (AI/ML) — DBIT Bengaluru 
+
+🔗 GitHub: @ManojgowdaBY
 
